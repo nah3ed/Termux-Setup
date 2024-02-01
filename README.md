@@ -6,16 +6,16 @@ Install git
 ```pkg install git```
 
 Clone the repository
-```git clone https://github.com/Tarkkailija/Termux-Setup-Script.git```
+```git clone https://github.com/nah3ed/Termux-Setup.git
 
 Change directory to the cloned repository
-```cd Termux-Setup-Script```
+```cd Termux-Setup
 
 Change access permission
-```chmod +x Termux-Install.sh```
+```chmod +x setup.sh```
 
 
 Execute the program
-```./Termux-Install.sh```
+```./setup.sh```
 
 ---
